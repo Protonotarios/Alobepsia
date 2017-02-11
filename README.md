@@ -3,6 +3,8 @@
 
 Για την υλοποίηση χρησιμοποιήθηκε το ελεύθερο λεξικό [OpenOffice Greek Dictionary v0.9](http://www.elspell.gr/) ή *elspell* που δημιουργήθηκε από τον Ευριπίδη Παπακώστα και τον Steve Σταυρόπουλο και διανέμεται κάτω από τις άδειες χρήσης GPL/MPL/LGPL. Δυστυχώς είναι το μόνο ελεύθερο ελληνικό λεξικό που φαίνεται να κυκλοφορεί εκεί έξω και έτσι είναι αυτό που χρησιμοποιείται σε όλα τα λογισμικά ανοικτού κώδικα Open Office, Libre Office, Firefox κλπ.
 
+Το πρόγραμμα βασίστηκε στον [κώδικα](https://sarantakos.wordpress.com/2017/02/10/atbash/#comment-413939) του χρήστη [Stazybο Hοrn](https://malvumaldit.wordpress.com/) που με τη σειρά του βασίστηκε στον [κώδικα](https://sarantakos.wordpress.com/2017/02/10/atbash/#comment-413901) του χρήστη Avonidas.
+
 ## Χρήση
 
 Το πρόγραμμα απαιτεί [Python 3.x](https://www.python.org/downloads/).
@@ -14,10 +16,6 @@
 ```python
 lexica = ['el_GR.dic','άλλολεξικό,txt']
 ``` 
-
-## Αναφορές
-
-Το πρόγραμμα βασίστηκε στον [κώδικα](https://sarantakos.wordpress.com/2017/02/10/atbash/#comment-413939) του χρήστη [Stazybο Hοrn](https://malvumaldit.wordpress.com/) που με τη σειρά του βασίστηκε στον [κώδικα](https://sarantakos.wordpress.com/2017/02/10/atbash/#comment-413901) του χρήστη Avonidas.
 
 ## Αποτελέσματα
 
