@@ -6,7 +6,7 @@ by Ioannis Protonotarios
 """
 
 # Add your lexicon files to the list
-lexica = ['el_GR.dic','Greek_Caps_English_US.dic']
+lexica = ['el_GR.dic']
 results_file = 'results.txt'
 
 def capitalized(word):
